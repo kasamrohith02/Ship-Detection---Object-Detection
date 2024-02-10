@@ -29,7 +29,7 @@ YOLOv8 is a state-of-the-art object detection model that is known for its speed 
   - Trained for 100  epochs with an early stopping criteria of patience=5
   - saved the models in [Weights](weights)
   - Acquired results , stored in [Results](Results)
-6. Predictions are done by loading the best.pt model  from weights for the validation set , stored in [Predictions](Predictions)
+6. Predictions are done by loading the best.pt model  from weights for the validation set , stored in [Predictions](https://1drv.ms/f/c/93e2a89acc8d828c/En5w2e_jSklFvnVmTfGDgfgBt2aPotvJtjlfEvQMlvM2kg?e=uhNgek)
 
 7. Jupyter notebook - [notebook](Yolov8.ipynb)
 
@@ -140,7 +140,7 @@ recall                 | 0.73130703
  [click me to view <b>"results.csv"</b>](Results/results.csv)
 
 - Predict folder contains predictions of ships(unseen data) made by the trained YOLOv8 model  
- [click me to view <b>"Predictions"</b>](Predictions)
+ [click me to view <b>"Predictions"</b>](https://1drv.ms/f/c/93e2a89acc8d828c/En5w2e_jSklFvnVmTfGDgfgBt2aPotvJtjlfEvQMlvM2kg?e=uhNgek)
 
 
 
